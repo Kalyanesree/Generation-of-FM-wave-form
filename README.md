@@ -1,7 +1,11 @@
 Aim
 To generte Frequency modulated wave for given specification
+
+
 Tools Required
 Python or MATLAB
+
+
 Procedure
 1.Initialize the amplitude and frequency of carrier wave
 2.Initialize the amplitude and frequency of Message signal
